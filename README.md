@@ -13,18 +13,6 @@
 
 This project provides two bypass methods for Messenger's SSL/TLS certificate pinning on Android, enabling security researchers and developers to capture and analyze Messenger's HTTPS traffic using standard MITM proxy tools.
 
-| Architecture | Bypass Method |
-|---|---|
-| `arm64-v8a` | Pre-patched APK |
-| `x86_64` | Patched `libcoldstart.so` replacement |
-
-**Key highlights:**
-
-- ✅ ARM64 — No root required, just install the patched APK
-- ✅ x86_64 — Simple library replacement for emulator setups
-- ✅ Compatible with Android emulators (Nox, LDPlayer, BlueStacks)
-- ✅ Works with popular proxy tools (Burp Suite, Mitmproxy, Reqable, Proxypin)
-
 ---
 
 ## 🎥 Proof of Concept
