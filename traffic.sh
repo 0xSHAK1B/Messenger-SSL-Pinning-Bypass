@@ -1,4 +1,4 @@
-OST /graphql HTTP/2
+POST /graphql HTTP/2
 host: b-graph.facebook.com
 x-fb-request-analytics-tags: {"network_tags":{"product":"256002347743983","request_category":"graphql","purpose":"none","retry_attempt":"0"},"application_tags":"graphservice"}
 x-fb-rmd: state=URL_ELIGIBLE
