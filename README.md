@@ -17,15 +17,16 @@ This project provides two bypass methods for Messenger's SSL/TLS certificate pin
 
 ## 🎥 Proof of Concept
 
-<img width="1046" height="506" alt="Image" src="https://github.com/user-attachments/assets/ff0bd5b3-432b-4d91-b75c-9543cc15e5f6" />
+<img width="1080" height="2392" alt="Image" src="https://github.com/user-attachments/assets/91c90eef-7b0f-4c24-85f8-590b49afc702" />
 
+📸 [**Watch the Full Video Demonstration**](https://github.com/user-attachments/assets/193dbc4a-da17-463f-955f-5605556ffbd9)
 ---
 
 ## 📋 Supported Messenger Version
 
 | App | Package | Version | Status |
 |-----|---------|---------|--------|
-| Messenger | `com.facebook.orca` | **566.0.0.57.86** | ✅ Bypassed |
+| Messenger | `com.facebook.orca` | **567.1.0.53.87** | ✅ Bypassed |
 
 > For the **latest bypassed APK or patched library**, [contact me on Telegram](https://t.me/MUH4MM4DSH4KIB).
 
